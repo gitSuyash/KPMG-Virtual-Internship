@@ -10,7 +10,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### Customer-Target Distribution
 
-![image.png](attachment:17b8947b-010c-4ca9-8cf0-a99477ed4aa9.png)
+![image.png](images/fig1.png)
 
 ##### Interpretations:
 * 2279 customers belong to ```label 0```
@@ -19,7 +19,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### High value customers for each gender
 
-![image.png](attachment:28ebbcd3-7f4e-4aa9-9bca-dc00469e28de.png)
+![image.png](images/fig2.png)
 
 ##### Interpretations:
  Among all the high value customers:
@@ -29,7 +29,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### Job Industry Category
 
-![image.png](attachment:53922392-3126-404b-957f-87bfed475914.png)
+![image.png](images/fig3.png)
 
 ##### Interpretations:
 
@@ -39,7 +39,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### High Value Customers in each State
 
-![image.png](attachment:521ad873-f724-46d0-affa-86188b52fcdd.png)
+![image.png](images/fig4.png)
 
 ##### Interpretations:
 * 54.5% of the high value customers come from ```NSW``` 
@@ -47,7 +47,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### Customer's Property Valuation Variance
 
-![image.png](attachment:0b59bb48-f289-4648-b576-06903027fc3c.png)
+![image.png](images/fig5.png)
 
 ##### Interpretations:
 
@@ -55,7 +55,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### Customer's Tenure
 
-![image.png](attachment:96c4c49d-426b-4cd0-8550-ac09fcff5d6e.png)
+![image.png](images/fig6.png)
 
 ##### Interpretations:
 
@@ -64,7 +64,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### Postcode Effect
 
-![image.png](attachment:3e65fd0d-d124-4985-8c5c-7eb2dfa1d0b9.png)
+![image.png](images/fig7.png)
 
 ##### Interpretations:
 
@@ -73,14 +73,14 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### Impact of Past 3 year purchases
 
-![image.png](attachment:b3a8223e-32a7-4a9a-bfe0-ed287fb0c6cd.png)
+![image.png](images/fig8.png)
 
 ##### Interpretations:
 * There's no such difference in average bike realated purchases for each target.
 
 ### Difference due to Wealth Segments
 
-![image.png](attachment:838515ff-5f5d-473e-bf07-38a68585e865.png)
+![image.png](images/fig9.png)
 
 ##### Interpretations:
 
