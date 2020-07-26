@@ -10,7 +10,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### Customer-Target Distribution
 
-![image.png](images/fig1.png)
+![image.png](../images/fig1.png)
 
 ##### Interpretations:
 * 2279 customers belong to ```label 0```
@@ -19,7 +19,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### High value customers for each gender
 
-![image.png](images/fig2.png)
+![image.png](../images/fig2.png)
 
 ##### Interpretations:
  Among all the high value customers:
@@ -29,7 +29,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### Job Industry Category
 
-![image.png](images/fig3.png)
+![image.png](../images/fig3.png)
 
 ##### Interpretations:
 
@@ -39,7 +39,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### High Value Customers in each State
 
-![image.png](images/fig4.png)
+![image.png](../images/fig4.png)
 
 ##### Interpretations:
 * 54.5% of the high value customers come from ```NSW``` 
@@ -47,7 +47,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### Customer's Property Valuation Variance
 
-![image.png](images/fig5.png)
+![image.png](../images/fig5.png)
 
 ##### Interpretations:
 
@@ -55,7 +55,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### Customer's Tenure
 
-![image.png](images/fig6.png)
+![image.png](../images/fig6.png)
 
 ##### Interpretations:
 
@@ -64,7 +64,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### Postcode Effect
 
-![image.png](images/fig7.png)
+![image.png](../images/fig7.png)
 
 ##### Interpretations:
 
@@ -73,14 +73,14 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### Impact of Past 3 year purchases
 
-![image.png](images/fig8.PNG)
+![image.png](../images/fig8.PNG)
 
 ##### Interpretations:
 * There's no such difference in average bike realated purchases for each target.
 
 ### Difference due to Wealth Segments
 
-![image.png](images/fig9.png)
+![image.png](../images/fig9.png)
 
 ##### Interpretations:
 
