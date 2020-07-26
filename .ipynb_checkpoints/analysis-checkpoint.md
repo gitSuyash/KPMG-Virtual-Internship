@@ -73,7 +73,7 @@ This data preparation step will help us make our analysis more convenient and ta
 
 ### Impact of Past 3 year purchases
 
-![image.png](images/fig8.png)
+![image.png](images/fig8.PNG)
 
 ##### Interpretations:
 * There's no such difference in average bike realated purchases for each target.
@@ -88,7 +88,7 @@ This data preparation step will help us make our analysis more convenient and ta
  1. 49.14% customers belong to ```Mass Customer``` Segment
  2. 24.62% customers belong to ```Affluent Customer``` Segment
  3. 26.24% customers belong to ```High Net Worth``` Segment
-<br>
+ 
 * For ```label 1``` or High Value Customers:
  1. 51.57% customers belong to ```Mass Customer``` Segment
  2. 23.97% customers belong to ```Affluent Customer``` Segment
