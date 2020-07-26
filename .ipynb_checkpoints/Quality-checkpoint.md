@@ -10,7 +10,7 @@
 * Incosistency in customer_id column of customer demographic table with respect to the customer address table.
 * Presence of null values in various features such as job_title, DOB etc..
 * Incosistency in various features regarding the recorded values having same interpretation but different representation. For example, 'Victoria' is represented as 'VIC' or 'V' at some points.
-
+* Some Numerical features are present in the form of string.
 
 *Please ensure the actions to be taken on the null values present in accordance with your data collection technique. Meanwhile we are proceeding forward with steps mentioned below.*
 
@@ -19,11 +19,13 @@
 
 #### Transactions Dataset:
  1. Null Values:
- <br>
       * The features ```brand```, ```product_line```,
-       ```product_class```, ```product_size```, ```standard_cost```,
-       ```product_first_sold_date```have missing values for same observations and therefore values in these observations are replaced by 'missing'.
+       ```product_class```, ```product_size``` have missing values for same observations and therefore values in these observations are replaced by 'missing'.
+      * Null values in ```standard_cost```,
+       ```product_first_sold_date``` are replaced by 0.
       * The null values in ```online_order``` are taken to be offline orders and replaced to be 0.
+      
+ 2. Convert necessary string features to numeric data type.
       
 #### Customer Demographic Dataset:
  1. Null Values:
@@ -39,10 +41,9 @@
       
 #### Customer Address Dataset:
  1. Null Values:
- <br>
     * No Null Values
+    
  2. Inconsistency in ```state``` column:
- <br>
     * 'VIC', 'Victoria' represent same entity similarly 'NSW', 'New South Wales' also represent same state.
     * We will be using 'VIC', 'NSW' inplace of 'Victoria' & 'New South Wales' respectively.
  

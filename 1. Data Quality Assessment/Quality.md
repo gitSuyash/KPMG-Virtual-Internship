@@ -19,7 +19,6 @@
 
 #### Transactions Dataset:
  1. Null Values:
- <br>
       * The features ```brand```, ```product_line```,
        ```product_class```, ```product_size``` have missing values for same observations and therefore values in these observations are replaced by 'missing'.
       * Null values in ```standard_cost```,
@@ -42,10 +41,9 @@
       
 #### Customer Address Dataset:
  1. Null Values:
- <br>
     * No Null Values
+    
  2. Inconsistency in ```state``` column:
- <br>
     * 'VIC', 'Victoria' represent same entity similarly 'NSW', 'New South Wales' also represent same state.
     * We will be using 'VIC', 'NSW' inplace of 'Victoria' & 'New South Wales' respectively.
  
